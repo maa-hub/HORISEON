@@ -1,13 +1,16 @@
+/* general header style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* body background color style */
 body {
     background-color: #d9dcd6;
 }
 
+/* general header style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,51 +18,44 @@ header {
     color: #ffffff;
 }
 
+/* header h1 "Horiseon" style */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header nav {
-    float: right;
-    margin: 20px 0;
+/* "SEO" in Horiseon color */
+.seo {
+    color: #d9dcd6;
 }
 
+/* all a elements in header color */
+header a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* header navigation style */
+header nav {
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding-top: 15px;
+    margin-right: 20px;
+}
+
+/* header list inline display and margin */
 header nav ul li {
     display:inline;
     margin: 0 40px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
-.header div {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
-.header div ul {
-    list-style-type: none;
-}
-
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
+/* all paragraph font size */
 p {
     font-size: 16px;
 }
 
+/* hero section class style */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,12 +65,14 @@ p {
     background-position: center;
 }
 
+/* search engine opt, online reputation management and social media marketing scetion style */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* class for all three stragegies style */
 .accessibilty {
     margin-bottom: 20px;
     padding: 50px;
@@ -84,25 +82,30 @@ p {
     color: #ffffff;
 }
 
+/* images for all three strategies height */
 .accessibilty img {
     max-height: 200px;
 }
 
+/* headings for all three strategies height  */
 .accessibilty h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* floating image for search engine optimization and social media marketing to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* floating image for sonline reputation management to the right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* benefits section style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -114,16 +117,19 @@ p {
     background-color: #2589bd;
 }
 
+/* section class for lead generation, brand awareness and cost management size and color */
 .lead-brand-cost{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* lead generation, brand awareness and cost management heading margin and text alignment */
 .lead-brand-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* lead generation, brand awareness and cost management images style */
 .lead-brand-cost img {
     display: block;
     margin: 10px auto;
