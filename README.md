@@ -1,9 +1,8 @@
-# Code Refactor Starter Code
-# Challenge 1
-In this challenge I was required to rerfractor the starter code to meet the acceptance critria.
+# HORISEON
+Refactor the starter code to meet the acceptance critria.
 
-## Activity
-* In this Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible.
+## Purpose
+* A website for a marketing agency to refactor an existing site to make it more accessible.
 * To make the website more accessible, My code includes:
   * Semantic HTML elements
 
@@ -15,8 +14,13 @@ In this challenge I was required to rerfractor the starter code to meet the acce
 
   * The title of my code strcyuture is short and consise=the name of the marketing company. 
 
-### End result
-* My code meets the accessiblity requiremnts.
+## Built with 
+* HTML
+* CSS
 
-* Application resembles the image (./01-html-css-git-homework-demo.png)
+## Website
+
+
+## Contribution
+Made with ❤️ by Maame
 
