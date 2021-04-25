@@ -19,7 +19,7 @@ Refactor the starter code to meet the acceptance critria.
 * CSS
 
 ## Website
-https://maa-hub.github.io/
+https://maa-hub.github.io/HORISEON/
 
 ## Contribution
 Made with ❤️ by Maame
